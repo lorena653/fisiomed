@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tabla{
+    background-color: rgba(142, 122, 255, 0.555);
+    margin: 150px auto;
+    width: 1100px;   
+    color: black;
+}
+table{
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td{
+
+    padding: 20px;
+}
+thead{
+    background-color: rgb(42, 9, 72);
+    border-bottom: solid 5px rgb(0, 152, 152);
+    color: aliceblue;
+}
+tr:nth-child(even){
+    background-color: rgba(35, 22, 105, 0.555);
+    color: aliceblue;
+}

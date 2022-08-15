@@ -1,0 +1,166 @@
+
+body{
+    background: url(../imagenes/imagen4.gif);
+  
+ }
+ hr{
+     color: #30ffc1;
+ }
+ nav{
+     background-color:rgba(92, 70, 216, 0.555);
+     width: 100%;
+     height: 75px;
+ 
+ }
+ .logo{
+     float: left;
+     
+ }
+ .logo1{
+     width: 125px;
+     height: 75px;
+     margin-left: 15px; 
+ }
+ .opciones{
+     width: auto;
+     height: auto;
+     margin-top: 12px;
+     float: left;
+     margin-left: 50px;
+     
+ }
+ .opciones a{
+     color: black;
+ }
+ .sesion{
+     margin-top: 12px;
+     display: inline-block;
+     float: right;
+     margin-right: 10px;
+ }
+ .sesion a {
+     color: black;
+ }
+ a{
+     text-decoration: none;
+ }
+ button{
+     background: #30ffc1;
+     border: none;
+     border-radius: 20px;
+     padding: 10px 40px;
+     font-size: 20px;
+     color:black;
+     cursor: pointer;
+     outline: none;
+ }
+ button:hover{
+     width: 200px;
+     height: 60px;
+     margin-top: -4px;
+     background: #e47dee;
+ }
+ .video{
+    width: auto;
+    height: auto;
+    
+}
+.video video{
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ h1{
+     color: #30ffc1;
+     font-size: 100px;
+     margin-top: 20%;
+     margin-left: 25%;
+     position: absolute;
+ }
+ 
+ /*seccion*/
+ section{
+     width: 90%;
+     height: 2720px;
+     background-color:#8e7aff8e;
+     margin-left: auto;
+     margin-right: auto;
+ }
+.produc{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    margin-top: 10px;
+    color: #30ffc1;
+}
+.contenido{
+    width: 100%;
+    height: 300px;
+    position: relative;
+    
+}
+.imagi{
+    width: 500px;
+    margin-left: 10px;
+    float: left;
+    
+}
+.descri{
+    width: 1200px;
+    color: #30ffc1;
+    font-size: 23px;
+}
+
+.descri:hover{
+    background-color: #30ffc1;
+    border-radius: 5px;
+    color: #760080;
+}
+
+ /*fotter*/
+ footer{
+     margin-top: 20px;
+     width: 100%;
+     height: 200px;
+     background-color:rgba(142, 122, 255, 0.555);
+ }
+ .fot{
+     width: 49%;
+     float: left;
+ }
+ .fot img{
+    margin: 10px;
+    margin-left: 50px;
+    width: 200px;
+ }
+ .nom{
+     margin-left: 30px;
+     width: 49%;
+     float: left;
+ }
+ h2{
+     margin: 10px;
+     margin: 10px 10px 10px 10px;
+     color: #30ffc1 ;
+ }
+ .red{
+     float: right;
+     width: 45%;
+ 
+ }
+ .red ul {
+     list-style: none;
+     padding: 0;
+ }
+ .red ul li .imgo{
+     padding: 20px;
+     display: block;
+     margin-top: 60px;
+ }
+ .red ul li{
+     display: inline-block;
+     text-align: center;
+ }
+ 
